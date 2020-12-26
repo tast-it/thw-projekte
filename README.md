@@ -1,6 +1,6 @@
 # THW (nahe) Projekte
 
-Eine Sammlung kostenlos zu nutzender und frei zugänglicher Projekte mit THW Bezug.
+Eine Sammlung kostenlos nutzbarer und frei zugänglicher Projekte mit THW Bezug.
 
 ## COVID-19
 * [Corona Dashboard](https://corona.thw-bornheim.de/) - Dashboard mit Übersicht der Pandemieschutzphasen der RBs.
@@ -11,6 +11,7 @@ Eine Sammlung kostenlos zu nutzender und frei zugänglicher Projekte mit THW Bez
 
 ## Programme
 * [Stashcat API Client](https://gitlab.com/aeberhardt/stashcat-api-client) - Einige Hilfsfunktionen um mit der API des THW-Messengers zu reden.
+* [thw-inventory](https://github.com/mziech/thw-inventory) - Ein auf die Bedürfnisse des THW zugeschnittenes Inventarsystem.
 
 ## Taktische Zeichen & Führungsinstrumente
 * [Taktische Zeichen Vorlagen Generator](https://taktische-zeichen.org/) - Erstelle Druckvorlagen für Taktische Zeichen in einem einfachen Web UI. ([Source Code](https://gitlab.com/tristanlins/taktische-zeichen-vorlagen-generator))
