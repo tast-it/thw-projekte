@@ -1,5 +1,7 @@
 # THW (nahe) Projekte
 
+Eine Sammlung kostenlos zu nutzender und frei zugänglicher Projekte mit THW Bezug.
+
 ## COVID-19
 * [Corona Dashboard](https://corona.thw-bornheim.de/) - Dashboard mit Übersicht der Pandemieschutzphasen der RBs.
 * [Dokumentvorlagen für dolibarr ERP](https://git.blubbfish.net/Php/dolibarr) - ([Video](https://media.ccc.de/v/froscon2020-2582-open_source_im_katastrophenschutz))
