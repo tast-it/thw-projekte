@@ -29,3 +29,4 @@ Eine Sammlung kostenlos nutzbarer und frei zugänglicher Projekte mit THW Bezug.
 
 ## Vorlagen
 * [thw-agtbook](https://github.com/rwolke/thw-agtbook) - Atemschutznachweis für Tätigkeit unter Atemschutz.
+* [thwbeamer](https://github.com/azhural/thwbeamer) - LaTeX beamer template for THW presentations.
