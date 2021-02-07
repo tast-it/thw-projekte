@@ -13,6 +13,7 @@ Eine Sammlung kostenlos nutzbarer und frei zugänglicher Projekte mit THW Bezug.
 * [eStab](https://www.estab.de/) - Der Elektronischer Nachrichtenvordruck. ([Source Code](https://sourceforge.net/projects/estab/))
 * [Stashcat API Client](https://gitlab.com/aeberhardt/stashcat-api-client) - Einige Hilfsfunktionen um mit der API des THW-Messengers zu reden.
 * [thw-inventory](https://github.com/mziech/thw-inventory) - Ein auf die Bedürfnisse des THW zugeschnittenes Inventarsystem.
+* [THWatch](https://github.com/farhaven/THWatch) - Grabs new courses from THW's last minute course listing.
 * [thwebgis](https://gitlab.meier-tkn.de/thw/webgis/thwebgis) - Portables webbasiertes GIS, auch für den Offline-Betrieb geeignet.
 
 ## Taktische Zeichen & Führungsinstrumente
