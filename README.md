@@ -21,6 +21,11 @@ Eine Sammlung kostenlos nutzbarer und frei zugänglicher Projekte mit THW Bezug.
 * [THW Magnete](https://thw-magnete.de/) - Druckvorlagen für Magnete und Führungsinstrumente.
 
 ## Webseiten
+* [EGS Visualisierung](https://rwolke.github.io/thw-egs/) - Visualisierung von EGS Konstruktionen. ([Source Code](https://github.com/rwolke/thw-egs))
 * [JApp](https://japp.thw-jugend.de) - Ideen für Jugend-Dienste und das Leistungsabzeichen der THW Jugend.
 * [THW OV-CMS](https://doku.ov-cms.thw.de) - TYPO3-CMS der THW-Ortsverbände
+* [THW Theorie](http://rwolke.github.io/thw-theorie/) - WebApp zum Lernen für die THW-Theorie Prüfung. ([Source Code](https://github.com/rwolke/thw-theorie))
 * [THWiki](https://thwiki.org)
+
+## Vorlagen
+* [thw-agtbook](https://github.com/rwolke/thw-agtbook) - Atemschutznachweis für Tätigkeit unter Atemschutz.
