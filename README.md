@@ -23,6 +23,7 @@ Eine Sammlung kostenlos nutzbarer und frei zugänglicher Projekte mit THW Bezug.
 * [THWatch](https://github.com/farhaven/THWatch) - Grabs new courses from THW's last minute course listing.
 * [thwebgis](https://gitlab.meier-tkn.de/thw/webgis/thwebgis) - Portables webbasiertes GIS, auch für den Offline-Betrieb geeignet.
 * [THWin2iCalendar](https://github.com/real-or-random/thwin2icalendar) - Konvertiert THW-Dienstpläne ins iCalendar-Format.
+* [top_downloader](https://github.com/dmth/top_downloader) - Bulk-downloads DTK maps in PDF-format from https://www.opengeodata.nrw.de/produkte/geobasis/tk
 
 ## Taktische Zeichen & Führungsinstrumente
 * [Taktische Zeichen Vorlagen Generator](https://taktische-zeichen.org/) - Erstelle Druckvorlagen für Taktische Zeichen in einem einfachen Web UI. ([Source Code](https://gitlab.com/tristanlins/taktische-zeichen-vorlagen-generator))
