@@ -14,6 +14,7 @@ Eine Sammlung kostenlos nutzbarer und frei zugänglicher Projekte mit THW Bezug.
 * [Dokumentvorlagen für dolibarr ERP](https://git.blubbfish.net/Php/dolibarr) - ([Video](https://media.ccc.de/v/froscon2020-2582-open_source_im_katastrophenschutz))
 
 ## Daten
+* [Dienststellen Scraper Extended](https://gitlab.com/Manuel_Raven/dienststellen-scraper-extended) - Kontaktdaten aller Dienststellen inkl. erweiterte Datensätze z.B. Einheiten.
 * [THW Dienststellen](https://git.ovcms.thw.de/git-api-aggregation/thw-dienststellen) - Kontaktdaten aller THW Dienststellen als JSON.
 
 ## Programme
