@@ -40,6 +40,6 @@ Eine Sammlung kostenlos nutzbarer und frei zugänglicher Projekte mit THW Bezug.
 * [JApp](https://japp.thw-jugend.de) - Ideen für Jugend-Dienste und das Leistungsabzeichen der THW Jugend.
 * [THW OV-CMS](https://doku.ov-cms.thw.de) - TYPO3-CMS der THW-Ortsverbände
 * [THW Theorie](http://rwolke.github.io/thw-theorie/) - WebApp zum Lernen für die THW-Theorie Prüfung. ([Source Code](https://github.com/rwolke/thw-theorie))
-* [THW-Adressbuch](https://thw-adressbuch.meldestein.de) - Durchsuchbare Liste aller Dienststellen. Als PWA offline installierbar. 
+* [THW-Adressbuch](https://thw-adressbuch.meldestein.de) - Durchsuchbare Liste aller Dienststellen. Als PWA offline installierbar. ([Source Code](https://gitlab.com/Manuel_Raven/thw-adressbuch))
 * [THW-Links](https://github.com/hdrees/THW-Links)
 * [THWiki](https://thwiki.org)
