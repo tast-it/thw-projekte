@@ -6,7 +6,7 @@ Eine Sammlung kostenlos nutzbarer und frei zugänglicher Projekte mit THW Bezug.
 * [COVID-19](#covid-19)
 * [Daten](#daten)
 * [Programme](#programme)
-  * [Hermine / Stashcat](#hermine-/-stashcat)
+  * [Hermine / Stashcat](#hermine-stashcat)
   * [Misc](#misc)
 * [Taktische Zeichen & Führungsinstrumente](#taktische-zeichen-&-führungsinstrumente)
 * [Vorlagen](#vorlagen)
