@@ -2,9 +2,12 @@
 
 Eine Sammlung kostenlos nutzbarer und frei zugänglicher Projekte mit THW Bezug.
 
+
 * [COVID-19](#covid-19)
 * [Daten](#daten)
 * [Programme](#programme)
+  * [Hermine / Stashcat](#hermine-/-stashcat)
+  * [Misc](#misc)
 * [Taktische Zeichen & Führungsinstrumente](#taktische-zeichen-&-führungsinstrumente)
 * [Vorlagen](#vorlagen)
 * [Webseiten](#webseiten)
@@ -19,9 +22,14 @@ Eine Sammlung kostenlos nutzbarer und frei zugänglicher Projekte mit THW Bezug.
 * [mobiler Hochwasserpegel](https://thwiki.org/t=Mobiler_Hochwasserpegel) - [Pegelkarte](http://thw-pegel.de/pegelkarte.php) - Betriebsstatus der mobilen Hochwasserpegel. WMS-Server mit Ort & Betriebstatus der Pegel unter `http://gis.thw-pegel.de/geoserver/ows`
 
 ## Programme
-* [eStab](https://www.estab.de/) - Der Elektronischer Nachrichtenvordruck. ([Source Code](https://sourceforge.net/projects/estab/))
+
+### Hermine / Stashcat
+* [C# Stashcat API Client](https://github.com/heinrich-ulbricht/stashcat-api-client) - Unofficial StashCat API Client
 * [IMAP-to-Stashcat](https://gitlab.com/C0FFEEC0FFEE/imap-to-stashcat) - Fetches e-mails from an IMAP mailbox and sends them to a stashcat channel
-* [Stashcat API Client](https://gitlab.com/aeberhardt/stashcat-api-client) - Einige Hilfsfunktionen um mit der API des THW-Messengers zu reden.
+* [Python Stashcat API Client](https://gitlab.com/aeberhardt/stashcat-api-client) - Einige Hilfsfunktionen um mit der API des THW-Messengers zu reden.
+
+### Misc
+* [eStab](https://www.estab.de/) - Der Elektronischer Nachrichtenvordruck. ([Source Code](https://sourceforge.net/projects/estab/))
 * [thw-inventory](https://github.com/mziech/thw-inventory) - Ein auf die Bedürfnisse des THW zugeschnittenes Inventarsystem.
 * [THWatch](https://github.com/farhaven/THWatch) - Grabs new courses from THW's last minute course listing.
 * [thwebgis](https://gitlab.meier-tkn.de/thw/webgis/thwebgis) - Portables webbasiertes GIS, auch für den Offline-Betrieb geeignet.
