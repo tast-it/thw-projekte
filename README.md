@@ -20,6 +20,7 @@ Eine Sammlung kostenlos nutzbarer und frei zugänglicher Projekte mit THW Bezug.
 
 ## Programme
 * [eStab](https://www.estab.de/) - Der Elektronischer Nachrichtenvordruck. ([Source Code](https://sourceforge.net/projects/estab/))
+* [IMAP-to-Stashcat](https://gitlab.com/C0FFEEC0FFEE/imap-to-stashcat) - Fetches e-mails from an IMAP mailbox and sends them to a stashcat channel
 * [Stashcat API Client](https://gitlab.com/aeberhardt/stashcat-api-client) - Einige Hilfsfunktionen um mit der API des THW-Messengers zu reden.
 * [thw-inventory](https://github.com/mziech/thw-inventory) - Ein auf die Bedürfnisse des THW zugeschnittenes Inventarsystem.
 * [THWatch](https://github.com/farhaven/THWatch) - Grabs new courses from THW's last minute course listing.
