@@ -25,6 +25,7 @@ Eine Sammlung kostenlos nutzbarer und frei zugänglicher Projekte mit THW Bezug.
 
 ### Hermine / Stashcat
 * [C# Stashcat API Client](https://github.com/heinrich-ulbricht/stashcat-api-client) - Unofficial StashCat API Client
+* [HermineBot](https://github.com/sebiw/HermineBot) - Sendet Nachrichten an Channel des Messengers Stashcat/Hermine via API
 * [IMAP-to-Stashcat](https://gitlab.com/C0FFEEC0FFEE/imap-to-stashcat) - Fetches e-mails from an IMAP mailbox and sends them to a stashcat channel
 * [Powershell Stashcat API Client](https://github.com/lksmrl/hermine-stashcat-ps)
 * [Python Stashcat API Client](https://gitlab.com/aeberhardt/stashcat-api-client) - Einige Hilfsfunktionen um mit der API des THW-Messengers zu reden.
