@@ -28,6 +28,7 @@ Eine Sammlung kostenlos nutzbarer und frei zugänglicher Projekte mit THW Bezug.
 * [Golang API Client](https://codeberg.org/aeberhardt/gostashcat) - Go bindings for the stashcat API
 * [HermineBot](https://github.com/sebiw/HermineBot) - Sendet Nachrichten an Channel des Messengers Stashcat/Hermine via API
 * [IMAP-to-Stashcat](https://gitlab.com/C0FFEEC0FFEE/imap-to-stashcat) - Fetches e-mails from an IMAP mailbox and sends them to a stashcat channel
+* [PHP API Client](https://gitlab.n-tools.de/Dirk/hermineConnectPHP)
 * [Powershell Stashcat API Client](https://github.com/lksmrl/hermine-stashcat-ps)
 * [Python Stashcat API Client](https://gitlab.com/aeberhardt/stashcat-api-client) - Einige Hilfsfunktionen um mit der API des THW-Messengers zu reden.
 
