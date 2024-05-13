@@ -17,6 +17,7 @@ Eine Sammlung kostenlos nutzbarer und frei zugänglicher Projekte mit THW Bezug.
 * [Dokumentvorlagen für dolibarr ERP](https://git.blubbfish.net/Php/dolibarr) - ([Video](https://media.ccc.de/v/froscon2020-2582-open_source_im_katastrophenschutz))
 
 ## Daten
+* [Dienststellen Scraper 2](https://gitlab.com/Manuel_Raven/thw-dienststellen-scraper2) - Nutzt die Datensätze von thw.de nach dem Relaunch der Website 2023. Datensätze sind jedoch deutlich begrenzter als zuvor.
 * [Dienststellen Scraper Extended](https://gitlab.com/Manuel_Raven/dienststellen-scraper-extended) - Kontaktdaten aller Dienststellen inkl. erweiterte Datensätze z.B. Einheiten.
 * [THW Dienststellen](https://git.ovcms.thw.de/git-api-aggregation/thw-dienststellen) - Kontaktdaten aller THW Dienststellen als JSON.
 * [mobiler Hochwasserpegel](https://thwiki.org/t=Mobiler_Hochwasserpegel) - [Pegelkarte](http://thw-pegel.de/pegelkarte.php) - Betriebsstatus der mobilen Hochwasserpegel. WMS-Server mit Ort & Betriebstatus der Pegel unter `http://gis.thw-pegel.de/geoserver/ows`
