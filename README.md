@@ -33,6 +33,10 @@ Eine Sammlung kostenlos nutzbarer und frei zugänglicher Projekte mit THW Bezug.
 * [Powershell Stashcat API Client](https://github.com/lksmrl/hermine-stashcat-ps)
 * [Python Stashcat API Client](https://gitlab.com/aeberhardt/stashcat-api-client) - Einige Hilfsfunktionen um mit der API des THW-Messengers zu reden.
 
+### Stein.APP
+* [steinapi](https://github.com/oscarminus/steinapi) - Ziel des Projekt ist die synchronisierung zwischen Stein.APP und Divera 24/7
+* [stoned_hermine](https://github.com/peacekiller/stoned_hermine) - Observes changes in Stein.app and pushes that in a Hermine channel
+
 ### Misc
 * [eStab](https://www.estab.de/) - Der Elektronischer Nachrichtenvordruck. ([Source Code](https://sourceforge.net/projects/estab/))
 * [thw-inventory](https://github.com/mziech/thw-inventory) - Ein auf die Bedürfnisse des THW zugeschnittenes Inventarsystem.
